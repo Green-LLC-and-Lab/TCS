@@ -1,1 +1,1 @@
-TCS это система на PowerPoint 
+TCS это програма на двежке Слайд-Шоу PowerPoint 
