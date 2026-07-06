@@ -1,24 +1,28 @@
-Это свободное и ничем не обремененное программное обеспечение, выпущенное в общественное достояние.
+BSD 3-Clause License
 
-Любой человек имеет право копировать, изменять, публиковать, использовать, компилировать, продавать или
-Распространяйте это программное обеспечение либо в виде исходного кода, либо в виде скомпилированного файла.
-двоичный код, для любых целей, коммерческих или некоммерческих, и любым способом.
-означает.
+Copyright (c) 2026, Green-LLC
 
-В юрисдикциях, признающих законы об авторском праве, автор или авторы
-Все авторские права на данное программное обеспечение передаются третьим лицам.
-Программное обеспечение передано в общественное достояние. Мы делаем это в интересах общества.
-в ущерб широкой общественности и в ущерб нашим наследникам и
-преемникам. Мы намерены, чтобы это посвящение стало открытым актом
-бессрочный отказ от всех нынешних и будущих прав на это
-программное обеспечение, защищенное авторским правом.
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
 
-Программное обеспечение предоставляется «как есть», без каких-либо гарантий.
-ЯВНЫЕ ИЛИ ПОДРАЗУМЕВАЕМЫЕ, ВКЛЮЧАЯ, ПОМИМО ПРОЧЕГО, ГАРАНТИИ
-ТОВАРНАЯ ПРИГОДНОСТЬ, ПРИГОДНОСТЬ ДЛЯ ОПРЕДЕЛЕННОЙ ЦЕЛИ И ОТСУТСТВИЕ НАРУШЕНИЯ ПРАВ.
-НИ ПРИ КАКИХ ОБСТОЯТЕЛЬСТВАХ АВТОРЫ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ЗА КАКИЕ-ЛИБО ПРЕТЕНЗИИ, УЩЕРБ ИЛИ ВОЗМЕЩЕНИЕ УЩЕРБА.
-ПРОЧАЯ ОТВЕТСТВЕННОСТЬ, ВОЗНИКАЮЩАЯ В РЕЗУЛЬТАТЕ ДОГОВОРА, ДЕЛИКТА ИЛИ ИНЫМ ОБРАЗОМ,
-ВОЗНИКАЮЩИЕ В СВЯЗИ С ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ ИЛИ ЕГО ИСПОЛЬЗОВАНИЕМ
-ДРУГИЕ ФУНКЦИИ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ.
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
 
-Для получения более подробной информации, пожалуйста, перейдите по ссылке < https://unlicense.org >
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its
+   contributors may be used to endorse or promote products derived from
+   this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
